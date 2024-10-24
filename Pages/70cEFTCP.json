@@ -1,0 +1,17 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "name": "fronteira acai",
+  "order": 1000,
+  "originalName": "typography",
+  "parent": "6bsTOzTZ",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "70cEFTCP",
+  "value": "typography",
+  "values": {
+    "tag": "h1"
+  }
+}

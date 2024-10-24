@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div frutilla",
+  "parent": "34naqZnb",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VQ0wVfi5",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divtextosrecetas"
+  }
+}

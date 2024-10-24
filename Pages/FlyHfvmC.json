@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Link",
+  "parent": "kOPIazif",
+  "path": "Link.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FlyHfvmC",
+  "value": "Link",
+  "values": {
+    "innerText": " Login",
+    "destination": "/login"
+  }
+}

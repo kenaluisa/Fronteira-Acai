@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Main Area",
+  "parent": "EWOBb5Mr",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "svU9EqMT",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

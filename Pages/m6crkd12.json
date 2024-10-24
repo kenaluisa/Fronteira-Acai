@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "kDM4zmnH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "m6crkd12",
+  "value": "text",
+  "values": {
+    "Content": "{item.nombre}"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Login Data",
+  "parent": "mQd0nIBR",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GiFBTN25",
+  "value": "useState",
+  "values": {
+    "variableName": "loginData",
+    "defaultValue": "{\n  Email: '',\n  Password: '',\n  RememberMe: false\n}"
+  }
+}

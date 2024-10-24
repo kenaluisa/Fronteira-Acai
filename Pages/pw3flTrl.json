@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "button de enviar pedido",
+  "order": 2,
+  "parent": "WpV7Hlu9",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pw3flTrl",
+  "value": "button",
+  "values": {
+    "ButtonText": "Enviar pedido!",
+    "Color": "primary",
+    "Action": "pedido()",
+    "Variant": "contained"
+  }
+}

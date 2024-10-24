@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "field pago",
+  "order": 1000,
+  "parent": "WpV7Hlu9",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "renderTag": "td",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Oy5BKB2x",
+  "value": "field",
+  "values": {
+    "Field": "rZde9dKh",
+    "Type": "edit"
+  }
+}

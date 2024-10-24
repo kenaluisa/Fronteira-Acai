@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "userData",
+  "parent": "47hVTNdG",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mrOtuydf",
+  "value": "useState",
+  "values": {
+    "variableName": "userData",
+    "defaultValue": "{ _id: null, Password: '' }"
+  }
+}

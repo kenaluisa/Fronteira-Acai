@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "field producto",
+  "order": 1000,
+  "parent": "WpV7Hlu9",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "renderTag": "td",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "XpqsRfBF",
+  "value": "field",
+  "values": {
+    "Field": "26L5Mabm",
+    "Type": "edit",
+    "maxLength": "11"
+  }
+}

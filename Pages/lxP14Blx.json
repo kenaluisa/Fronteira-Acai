@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div flan",
+  "parent": "34naqZnb",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lxP14Blx",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divtextosrecetas"
+  }
+}

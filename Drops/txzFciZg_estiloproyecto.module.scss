@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+
+.pages {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  .mainarea {
+    .divnavegacion {
+      background-color: #674ca2;
+      padding: 25px;
+      margin-bottom: 0.3rem;
+      display: flex;
+      align-items: center;
+    }
+    .divTitulo {
+      width: 80vw;
+      height: 70vh;
+      margin-top: 5rem;
+      background-image: url(../img/brigadeir-mesa.jpg);
+      background-size: cover;
+
+      h1 {
+        font-size: 15rem;
+        color: #4f3587;
+        font-family: 'Updock', cursive;
+        font-style: normal;
+        font-weight: 400;
+      }
+    }
+    .divsubtitulo {
+      background-color: #4f3587;
+      width: 50vw;
+      height: 70vh;
+    }
+  }
+}

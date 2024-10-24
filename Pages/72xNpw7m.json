@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop de los productos",
+  "parent": "hC72V4BP",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "72xNpw7m",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "itemstabla"
+  }
+}

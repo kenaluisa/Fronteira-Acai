@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Marker",
+  "order": 1000,
+  "parent": "kkxspW7A",
+  "path": "Marker.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "I9xriflx",
+  "value": "Marker",
+  "values": {
+    "Position": "[-26.056122159783477, -53.74095848596409]"
+  }
+}

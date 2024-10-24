@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "Ar4G44LA",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PCTTg6rN",
+  "value": "image",
+  "values": {
+    "path": "img/${item.imagen}",
+    "width": "200",
+    "height": "300"
+  }
+}

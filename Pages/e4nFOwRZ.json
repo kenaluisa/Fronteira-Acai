@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "KgQOwZgA",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "e4nFOwRZ",
+  "value": "text",
+  "values": {
+    "Content": "Mousse de frutilla"
+  }
+}

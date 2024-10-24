@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div barra navegacion",
+  "parent": "ISfLr1bx",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fnELvhsA",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divnavegacion"
+  }
+}

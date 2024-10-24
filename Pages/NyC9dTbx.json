@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "order": 1000,
+  "parent": "svU9EqMT",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "NyC9dTbx",
+  "value": "Container",
+  "values": {
+    "maxWidth": "lg",
+    "className": "theme.containerMapa"
+  }
+}

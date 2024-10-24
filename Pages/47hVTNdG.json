@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "From Link (with nonce)",
+  "parent": "mlZoPOmn",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "47hVTNdG",
+  "value": "dummyEncloser"
+}

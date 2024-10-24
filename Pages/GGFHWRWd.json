@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "sCFqACGF",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GGFHWRWd",
+  "value": "text",
+  "values": {
+    "Content": "Recetas"
+  }
+}

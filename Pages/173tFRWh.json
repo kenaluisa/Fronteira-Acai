@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "hygl96R3",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "173tFRWh",
+  "value": "text",
+  "values": {
+    "Content": "{recoverError}"
+  }
+}

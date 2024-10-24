@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Register Functionality",
+  "parent": "Z0Gynvoo",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "s14yUOOm",
+  "value": "dummyEncloser"
+}

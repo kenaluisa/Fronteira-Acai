@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink home",
+  "order": 1000,
+  "parent": "XqO7ktzM",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "iMDqlG7l",
+  "value": "simpleLink",
+  "values": {
+    "target": "_self",
+    "destination": "/",
+    "tagToUse": "A"
+  }
+}

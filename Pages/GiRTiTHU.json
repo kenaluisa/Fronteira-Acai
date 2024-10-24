@@ -1,0 +1,21 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "text Ingredientes",
+  "order": 2,
+  "parent": "VGzI9vep",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GiRTiTHU",
+  "value": "text",
+  "values": {
+    "Content": "Ingredientes: "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "wliNSlpz",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Bm1I8QJz",
+  "value": "text",
+  "values": {
+    "Content": "Montá tu pedido"
+  }
+}

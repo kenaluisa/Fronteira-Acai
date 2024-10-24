@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "I7fDDsbI",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2hVBu6Q1",
+  "value": "text",
+  "values": {
+    "Content": "Register",
+    "ClassName": "theme.textSignIn"
+  }
+}

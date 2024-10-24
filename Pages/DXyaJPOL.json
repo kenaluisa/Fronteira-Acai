@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "Hu3063aL",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DXyaJPOL",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false"
+  }
+}

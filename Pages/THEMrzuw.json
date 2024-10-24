@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "hGWMhxub",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "THEMrzuw",
+  "value": "text",
+  "values": {
+    "Content": "Password reset?"
+  }
+}

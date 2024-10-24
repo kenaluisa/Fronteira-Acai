@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "order": 1000,
+  "parent": "wKgMiMO7",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Elql5VAr",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "productositems"
+  }
+}

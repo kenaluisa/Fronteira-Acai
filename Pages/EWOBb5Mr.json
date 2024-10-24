@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "Body",
+  "parent": "KSWUTmdo",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "EWOBb5Mr",
+  "value": "b",
+  "values": {
+    "className": "theme.pagesDashboard"
+  }
+}

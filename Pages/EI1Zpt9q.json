@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text completo",
+  "parent": "VQ0wVfi5",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EI1Zpt9q",
+  "value": "text",
+  "values": {
+    "Content": "2 tazas de frutillas frescas, lavadas y sin hojas\n\n1/2 taza de azúcar\n\n1 taza de crema de leche\n\n1 cucharadita de esencia de vainilla\n\n1 sobre de gelatina sin sabor\n\n1/4 taza de agua fría"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "RIgDHP77",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "q399arpV",
+  "value": "text",
+  "values": {
+    "Content": "Click here to reset your password"
+  }
+}

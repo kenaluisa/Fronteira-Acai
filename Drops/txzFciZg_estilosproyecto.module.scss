@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+
+//mixin navegacion
+@mixin barraNavegacion {
+  background-color: rgba(46, 44, 44, 0.5);
+  padding: 25px;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+}
+
+//mixing footer
+@mixin pieDePagina {
+  .footerPage {
+    display: flex;
+    justify-content: space-between;
+
+    .divcontacto {
+    }
+    .divredes {
+    }
+    .divderechos {
+    }
+  }
+}
+
+.pagesDashboard {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  .mainarea {
+    .divfondo {
+      background-image: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), url(../img/healthy-fruits-sale-market.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .divnavegacion {
+        @include barraNavegacion;
+        width: 100vw;
+        height: 5rem;
+        padding: 0 25px;
+
+        a {
+          color: azure;
+          text-decoration: none;
+          margin: 0 15px;
+          font-size: 16px;
+        }
+      }
+      .divTitulo {
+        width: 80vw;
+        height: 35vh;
+        margin-left: 1rem;
+
+        h1 {
+          font-size: 15rem;
+          color: #e2e1e4;
+          font-family: 'Hurricane', cursive;
+          font-style: normal;
+          font-weight: 400;
+          padding-left: 2rem;
+          padding-top: 0.1rem;
+        }
+      }
+      .divsubtitulo {
+        margin-top: 1rem;
+        width: 100vw;
+        //height: 70vh;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .divduplosabor {
+          width: 50vw;
+          h2 {
+            font-size: 5rem;
+            color: #130629;
+            font-family: 'Hurricane', cursive;
+            font-weight: 400;
+            font-style: normal;
+            padding-left: 2rem;
+            padding-top: 0.1rem;
+          }
+        }
+        .divtextodescubre {
+          width: 60vw;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          h4 {
+            font-size: 1.5rem;
+            padding: 1rem;
+            background-color: #4f358765;
+            color: #e2e1e4;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+          }
+        }
+      }
+    }
+    .divcards {
+      font-family: 'Montserrat', sans-serif;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .containerMapa {
+      display: flex;
+      justify-content: center;
+      .divmapa {
+        font-family: 'Montserrat', sans-serif;
+        :global(.leaflet-container) {
+          width: 60vw;
+
+          border: red 1px solid;
+        }
+      }
+    }
+  }
+}
+.footerPage {
+  @include pieDePagina;
+}
+
+///aca empieza login
+///
+///
+
+.pageLogin {
+  :global(.MuiContainer-root) {
+    background-image: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), url(../img/healthy-fruits-sale-market.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  @media (min-width: 390px) {
+    :global(.css-xdmu94-MuiContainer-root) {
+      max-width: 100vw;
+    }
+  }
+  .loginPage {
+    .divnavegacion {
+      @include barraNavegacion;
+      a {
+        color: azure;
+        text-decoration: none;
+        margin: 0 15px;
+        font-size: 16px;
+      }
+    }
+    .containerLogin {
+    }
+    .loginBox {
+    }
+  }
+}

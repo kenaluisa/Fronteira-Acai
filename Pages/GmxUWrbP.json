@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "tVxygeTD",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GmxUWrbP",
+  "value": "div",
+  "values": {
+    "class": "theme.flexLine"
+  }
+}

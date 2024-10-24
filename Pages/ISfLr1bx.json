@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "componentBarraNavegacion",
+  "order": 1000,
+  "parent": "q9ccWgKM",
+  "path": "componentBody.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ISfLr1bx",
+  "value": "componentBody",
+  "values": {}
+}

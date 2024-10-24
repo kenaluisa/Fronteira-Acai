@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text Ingredientes",
+  "parent": "lxP14Blx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Fhr4rOWM",
+  "value": "text",
+  "values": {
+    "Content": "Ingredientes: "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "7TEXA3lA",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KZ1C1UaG",
+  "value": "text",
+  "values": {
+    "Content": "Brownies de chocolate"
+  }
+}

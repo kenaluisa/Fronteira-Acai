@@ -1,0 +1,94 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "cliente",
+      "data_type": "String",
+      "key": "Auto Number",
+      "unique_id": "TmIWMEQ4",
+      "length": "11",
+      "relationshipType": "1:m",
+      "reference": "OVyvuUeD",
+      "displaytype": "standard",
+      "add": "true"
+    },
+    {
+      "data_type": "Autocomplete",
+      "column_name": "producto",
+      "unique_id": "26L5Mabm",
+      "relationshipType": "1:m",
+      "reference": "0h9vp9Vc",
+      "displaytype": "chips"
+    },
+    {
+      "data_type": "Boolean",
+      "column_name": "envio",
+      "unique_id": "5zXVgMSc",
+      "prompt": "",
+      "placeholder": "Desea envio?"
+    },
+    {
+      "data_type": "Dropdown",
+      "column_name": "pago",
+      "unique_id": "rZde9dKh",
+      "options": "Mercado Pago;Efectivo",
+      "displaytype": "standard"
+    }
+  ],
+  "name": "Pedidos",
+  "singleName": "Pedido ",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "q8foOGrc",
+  "x": 494,
+  "y": 68
+}

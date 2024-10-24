@@ -1,0 +1,83 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "nombre",
+      "data_type": "String",
+      "key": "Auto Number",
+      "unique_id": "0h9vp9Vc",
+      "length": "11"
+    },
+    {
+      "data_type": "String",
+      "column_name": "descripcion",
+      "unique_id": "qb4zoBp5"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "precio",
+      "unique_id": "QkbE5T9g"
+    },
+    {
+      "data_type": "Image",
+      "column_name": "imagen",
+      "unique_id": "d16Os6kS"
+    }
+  ],
+  "name": "Productos",
+  "singleName": "Producto",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "WJSJW35x",
+  "x": 760,
+  "y": 181
+}

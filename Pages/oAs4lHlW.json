@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "recoverError",
+  "parent": "DMvhTRr3",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oAs4lHlW",
+  "value": "useState",
+  "values": {
+    "variableName": "recoverError",
+    "defaultValue": "null"
+  }
+}

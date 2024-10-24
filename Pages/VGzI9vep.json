@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div brownie",
+  "parent": "34naqZnb",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VGzI9vep",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divtextosrecetas"
+  }
+}

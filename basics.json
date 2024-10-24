@@ -1,0 +1,35 @@
+{
+  "_id": "CMIJbJNMb7TZbazN",
+  "createdAt": 1728504710712,
+  "modifiedAt": 1729802085645,
+  "lastBuild": 1729802085643,
+  "settings": {
+    "name": "proyectoFinal",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "proyectoFinal",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://proyectofinallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/proyectofinal"
+    },
+    "stagging": {
+      "apiURL": "https://proyectofinallite.aptugo.app",
+      "type": "Local",
+      "folder": "proyectoFinal_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://proyectofinallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/proyectofinal"
+    },
+    "production": {
+      "apiURL": "https://proyectofinallite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "proyectoFinal",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://proyectofinallite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/proyectofinal"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "4lzLUtzK",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tpohS86D",
+  "value": "text",
+  "values": {
+    "Content": "Duplo Sabor!"
+  }
+}

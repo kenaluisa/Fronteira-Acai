@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "image",
+  "order": 1000,
+  "parent": "FPG6VVI3",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xlK65BLa",
+  "value": "image",
+  "values": {
+    "useAsset": "7do1L4Xy",
+    "width": "45",
+    "height": "45"
+  }
+}

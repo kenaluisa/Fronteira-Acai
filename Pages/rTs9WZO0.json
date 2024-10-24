@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "P9qKPIRD",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rTs9WZO0",
+  "value": "text",
+  "values": {
+    "Content": "Explora nuestro catálogo, elige tus sabores favoritos y déjate llevar por una explosión de dulzura y felicidad en cada bocado."
+  }
+}

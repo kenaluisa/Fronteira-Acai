@@ -1,0 +1,21 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "text",
+  "order": 2,
+  "parent": "SOqXTqmX",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ydz2Lq6G",
+  "value": "text",
+  "values": {
+    "Content": "Copyright by Kena Matzenbacher"
+  }
+}

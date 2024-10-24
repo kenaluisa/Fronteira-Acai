@@ -1,0 +1,9 @@
+{
+  "filename": "forgot.tsx",
+  "name": "Retrieve Password",
+  "parent": "KSWUTmdo",
+  "path": "/forgot/:nonce?/:email?",
+  "priority": 5,
+  "type": "page",
+  "unique_id": "JDKfftqT"
+}

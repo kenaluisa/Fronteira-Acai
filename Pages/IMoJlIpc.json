@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "4qHecTTU",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IMoJlIpc",
+  "value": "text",
+  "values": {
+    "Content": "Recetas"
+  }
+}

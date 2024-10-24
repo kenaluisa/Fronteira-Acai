@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "FirstName",
+  "parent": "zafGtEex",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qT9Zd4IN",
+  "value": "field",
+  "values": {
+    "Field": "QTUdn2qg",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined"
+  }
+}

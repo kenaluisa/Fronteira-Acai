@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "DWGQCkfg",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5iD0Q13c",
+  "value": "text",
+  "values": {
+    "Content": "Set your new password in the field below"
+  }
+}

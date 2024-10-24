@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "iMDqlG7l",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "w3sikLGX",
+  "value": "image",
+  "values": {
+    "useAsset": "GBm69wm2",
+    "width": "50",
+    "height": "50"
+  }
+}

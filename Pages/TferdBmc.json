@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink whatsapp",
+  "order": 1000,
+  "parent": "0xANThgn",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TferdBmc",
+  "value": "simpleLink",
+  "values": {
+    "target": "_blank",
+    "tagToUse": "A",
+    "destination": "https://api.whatsapp.com/message/4OD6SNL3LXCEH1?autoload=1&app_absent=0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink pedidos",
+  "parent": "XqO7ktzM",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yMsSE5tl",
+  "value": "simpleLink",
+  "values": {
+    "target": "_self",
+    "destination": "/pedidosclientes",
+    "tagToUse": "A"
+  }
+}

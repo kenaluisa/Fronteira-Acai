@@ -1,0 +1,10 @@
+{
+  "asociated_table": "WJSJW35x",
+  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"WJSJW35x\").name + '.tsx'",
+  "name": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"WJSJW35x\").name",
+  "parent": "U7HyKHSM",
+  "path": "/Productos",
+  "priority": 5,
+  "type": "page",
+  "unique_id": "252bhXk5"
+}

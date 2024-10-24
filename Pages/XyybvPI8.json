@@ -1,0 +1,18 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "div precio",
+  "order": 1,
+  "parent": "72xNpw7m",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "XyybvPI8",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

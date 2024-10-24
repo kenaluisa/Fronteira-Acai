@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "name": "getCurrentUser",
+  "parent": "xRqUiZis",
+  "path": "getCurrentUser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8r1XbwX4",
+  "value": "getCurrentUser",
+  "values": {
+    "variableName": "4ZRZis4u",
+    "checkUserRole": true,
+    "userType": "Admin"
+  }
+}

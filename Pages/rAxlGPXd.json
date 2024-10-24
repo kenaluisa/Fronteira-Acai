@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "kHIXNkl6",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rAxlGPXd",
+  "value": "text",
+  "values": {
+    "Content": "¡Hacé tu pedido acá!"
+  }
+}

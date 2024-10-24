@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Body",
+  "parent": "JDKfftqT",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "TOVkAx37",
+  "value": "b",
+  "values": {
+    "primaryColor": "blue",
+    "className": [
+      "theme.retrieveBody"
+    ]
+  }
+}

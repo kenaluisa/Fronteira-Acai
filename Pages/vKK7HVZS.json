@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "image",
+  "order": 1000,
+  "parent": "TferdBmc",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vKK7HVZS",
+  "value": "image",
+  "values": {
+    "useAsset": "MswiDSKK",
+    "width": "45",
+    "height": "45"
+  }
+}

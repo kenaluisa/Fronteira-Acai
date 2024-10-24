@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "order": 1000,
+  "parent": "T9FQJpPP",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "V9kMeGII",
+  "value": "Container",
+  "values": {
+    "className": "theme.container",
+    "maxWidth": "lg"
+  }
+}

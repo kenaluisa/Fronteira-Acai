@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "parent": "c68NZ3rn",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vZTLsdft",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "New Password",
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "password",
+    "onChange": "(e) => { setuserData({ ...userData, Password: e.target.value}) }",
+    "value": "{userData.Password}"
+  }
+}

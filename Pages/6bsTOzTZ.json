@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div - fronteira acai text",
+  "parent": "x3i1ZxQy",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6bsTOzTZ",
+  "value": "div",
+  "values": {
+    "class": "theme.divTitulo"
+  }
+}

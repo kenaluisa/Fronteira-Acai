@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "z94N3fWC",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PViTr4wI",
+  "value": "text",
+  "values": {
+    "Content": "Descubre la auténtica experiencia de los sabores brasileños con nuestros deliciosos helados de Açaí, brigadeiros y otros dulces."
+  }
+}

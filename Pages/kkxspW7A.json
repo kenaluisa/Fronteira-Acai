@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "name": "LeafLet",
+  "order": 1000,
+  "parent": "COVOwem3",
+  "path": "LeafLet.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"react-leaflet\": \"2.8.0\",\"leaflet\": \"latest\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "kkxspW7A",
+  "value": "LeafLet",
+  "values": {
+    "scroll": true,
+    "zoom": "18",
+    "position": "[-26.055863660774772, -53.7410281262605]"
+  }
+}

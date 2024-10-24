@@ -1,0 +1,24 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "cascades": false,
+  "display": "Load from Database",
+  "name": "Load from Database productos",
+  "order": 1000,
+  "originalName": "Load from Database",
+  "parent": "3qma8PSO",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "9EtOGLQw",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "WJSJW35x",
+    "variableName": "productositems",
+    "useExactMatch": false,
+    "fieldToSearch": "",
+    "searchString": ""
+  }
+}

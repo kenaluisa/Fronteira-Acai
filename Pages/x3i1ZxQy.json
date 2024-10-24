@@ -1,0 +1,19 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "div fondo",
+  "order": 1,
+  "parent": "svU9EqMT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "x3i1ZxQy",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divfondo"
+  }
+}

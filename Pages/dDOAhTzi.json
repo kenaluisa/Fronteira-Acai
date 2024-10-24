@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "parent": "ZHmETtcc",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dDOAhTzi",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "text",
+    "label": "Email address",
+    "onChange": "(e) => { setuserEmail(e.target.value) }",
+    "value": "{userEmail}"
+  }
+}

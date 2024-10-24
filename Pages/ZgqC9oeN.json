@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text completo",
+  "parent": "lxP14Blx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZgqC9oeN",
+  "value": "text",
+  "values": {
+    "Content": "1 taza de azúcar (para el caramelo)\n\n1 lata de leche condensada\n\n1 lata de leche evaporada\n\n4 huevos\n\n1 cucharadita de esencia de vainilla"
+  }
+}

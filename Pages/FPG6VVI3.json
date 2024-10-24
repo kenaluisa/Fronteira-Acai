@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink instagram",
+  "order": 1000,
+  "parent": "0xANThgn",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "FPG6VVI3",
+  "value": "simpleLink",
+  "values": {
+    "target": "_blank",
+    "destination": "https://www.instagram.com/fronteira__acai?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "tagToUse": "A"
+  }
+}

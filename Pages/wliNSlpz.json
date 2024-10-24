@@ -1,0 +1,17 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "name": "titulo",
+  "order": 1000,
+  "originalName": "typography",
+  "parent": "TD24BufR",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "wliNSlpz",
+  "value": "typography",
+  "values": {
+    "tag": "h2"
+  }
+}

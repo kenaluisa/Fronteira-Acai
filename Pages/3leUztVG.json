@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "function",
+  "parent": "QLZbuLzT",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3leUztVG",
+  "value": "function",
+  "values": {
+    "functionName": "pedido",
+    "functionBody": "const data = {...Pedidosdata}\r\nsetPedidosdata({...initialDataPedidos})"
+  }
+}

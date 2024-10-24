@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "yMsSE5tl",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vLQWI8Lr",
+  "value": "text",
+  "values": {
+    "Content": "Pedidos"
+  }
+}

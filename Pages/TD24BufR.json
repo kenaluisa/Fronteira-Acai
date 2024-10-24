@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div pedido",
+  "parent": "V9kMeGII",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TD24BufR",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}
