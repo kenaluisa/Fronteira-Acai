@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "ComponentBarraNavegacion",
+  "parent": "iQmMonmz",
+  "path": "useComponent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RW2y1JSl",
+  "value": "useComponent",
+  "values": {
+    "name": "ComponentBarraNavegacion",
+    "props": "theme"
+  }
+}

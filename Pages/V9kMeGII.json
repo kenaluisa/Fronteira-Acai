@@ -10,7 +10,7 @@
   "unique_id": "V9kMeGII",
   "value": "Container",
   "values": {
-    "className": "theme.container",
-    "maxWidth": "lg"
+    "className": "theme.containerPedidos",
+    "maxWidth": "xl"
   }
 }

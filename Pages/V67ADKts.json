@@ -5,7 +5,7 @@
   "double": true,
   "name": "div nombre del producto",
   "order": 1,
-  "parent": "ltJoXPm1",
+  "parent": "aBoscCCD",
   "path": "div.tpl",
   "prevent_delete": false,
   "sourceType": "javascript",
@@ -13,6 +13,7 @@
   "unique_id": "V67ADKts",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.divnombre"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "name": "ComponentBarraNavegacion",
+  "order": 1000,
+  "parent": "x3i1ZxQy",
+  "path": "useComponent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xyKdK4Fp",
+  "value": "useComponent",
+  "values": {
+    "name": "ComponentBarraNavegacion",
+    "props": "theme"
+  }
+}

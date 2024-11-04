@@ -1,66 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+//mixin cards
+@mixin cards {
+  font-family: 'Montserrat', sans-serif;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 
-//mixin navegacion
-@mixin barraNavegacion {
+  gap: 6rem;
+  padding: 3rem 1rem 3rem 3rem;
+  min-height: 100vh;
+  justify-content: center;
+}
+.divnavegacion {
+  width: 100vw;
+  height: 3rem;
+  padding: 0 25px;
   background-color: rgba(46, 44, 44, 0.5);
   padding: 25px;
   top: 0;
   z-index: 100;
   display: flex;
   align-items: center;
+
+  a {
+    color: azure;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+  }
 }
 
 //mixing footer
-@mixin pieDePagina {
-  .footerPage {
-    display: flex;
-    justify-content: space-between;
-
-    .divcontacto {
-    }
-    .divredes {
-    }
-    .divderechos {
-    }
-  }
-}
 
 .pagesDashboard {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 12px;
   .mainarea {
+    background-image: linear-gradient(to left top, #282c35, #30333d, #383a44, #40424c, #494954);
+    background-size: cover;
+
     .divfondo {
       background-image: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), url(../img/healthy-fruits-sale-market.jpg);
+      mask-image: linear-gradient(black 90%, transparent);
+
+      //background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.455));
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
+
       height: 100vh;
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
 
-      .divnavegacion {
-        @include barraNavegacion;
-        width: 100vw;
-        height: 5rem;
-        padding: 0 25px;
-
-        a {
-          color: azure;
-          text-decoration: none;
-          margin: 0 15px;
-          font-size: 16px;
-        }
-      }
       .divTitulo {
         width: 80vw;
         height: 35vh;
         margin-left: 1rem;
 
         h1 {
-          font-size: 15rem;
+          font-size: 13rem;
           color: #e2e1e4;
           font-family: 'Hurricane', cursive;
           font-style: normal;
@@ -105,9 +105,65 @@
       }
     }
     .divcards {
-      font-family: 'Montserrat', sans-serif;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      @include cards;
+      //background-image: linear-gradient(to left top, #282c35, #30333d, #383a44, #40424c, #494954);      background-size: cover;
+
+      ///background: linear-gradient(to bottom,  #19202E, #8E97BE);
+      //background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent), url(../img/healthy-fruits-sale-market.jpg);
+
+      .loop {
+        display: flex;
+        align-items: center;
+        .card {
+          border: #cba6ef 3px solid;
+          background-color: #ffffff;
+          border-radius: 10px;
+          padding: 7px;
+          position: relative;
+          text-align: center;
+          box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+          width: 225px;
+          height: 300px;
+
+          .divnombre {
+            color: #211c26;
+            & h2 {
+              font-size: 24px;
+            }
+          }
+
+          .divimg {
+            border-radius: 50%;
+            margin: 15px 15px 15px 15px;
+            &picture {
+              padding: 0 0 0 3px;
+            }
+          }
+          .divprecio {
+            display: inline-block;
+            text-transform: capitalize;
+            background-color: #b997e1;
+            color: #ffffff;
+            padding: 8px 20px;
+            border-radius: 15px;
+            font-weight: 500;
+            text-decoration: none;
+            transition: background-color 0.3 ease-in-out;
+            & h6 {
+              color: #666666;
+              line-height: 1.5;
+              margin-bottom: 20px;
+            }
+          }
+        }
+        .card:hover {
+          border: #6e24b7 3px solid;
+          background-color: #963d3d;
+          transform: scale(1.2);
+          transition: transform 0.6s ease-in, 0.4 ease-in-out;
+          box-shadow: 10px 10px 10px hsla(0, 0%, 13%, 1);
+        }
+      }
     }
     .containerMapa {
       display: flex;
@@ -123,8 +179,21 @@
     }
   }
 }
+
 .footerPage {
-  @include pieDePagina;
+  background: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), #8e97be;
+
+  color: #e2e1e4;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  .divcontacto {
+  }
+  .divredes {
+    display: flex;
+  }
+  .divderechos {
+  }
 }
 
 ///aca empieza login
@@ -133,7 +202,8 @@
 
 .pageLogin {
   :global(.MuiContainer-root) {
-    background-image: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), url(../img/healthy-fruits-sale-market.jpg);
+    padding: 0;
+    background: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), #8e97be;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -145,18 +215,101 @@
     }
   }
   .loginPage {
-    .divnavegacion {
-      @include barraNavegacion;
-      a {
-        color: azure;
-        text-decoration: none;
-        margin: 0 15px;
-        font-size: 16px;
-      }
-    }
     .containerLogin {
     }
     .loginBox {
+    }
+  }
+}
+
+//// aca empieza pedidos clientes//
+///
+
+.pagesPedidos {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+
+  .containerPedidos {
+    padding: 0 0 0 0;
+    background: linear-gradient(rgba(27, 26, 26, 0.7), rgba(39, 38, 38, 0.7)), #8e97be;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    .navbarpedidos {
+      .titulopedido {
+        h2 {
+          font-family: 'Montserrat', sans-serif;
+          font-weight: 600;
+          font-size: 5rem;
+        }
+      }
+    }
+    .cardspedidos {
+      .containerLoop {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        row-gap: 4rem;
+        .loopcards {
+          border: #cba6ef 3px solid;
+          background-color: #ffffff;
+          border-radius: 10px;
+          padding: 7px;
+          position: relative;
+          text-align: center;
+          box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+          transition: transform 0.5s ease-in-out, background-color 0.5s ease-in-out;
+          width: 225px;
+          height: 300px;
+          .nombre {
+            & h5 {
+              font-size: 15px;
+              color: #666666;
+              line-height: 1.5;
+              margin-bottom: 20px;
+            }
+          }
+          .descripcion {
+            h5 {
+              font-size: 0.9rem;
+            }
+          }
+          .precio {
+            display: inline-block;
+            text-transform: capitalize;
+            background-color: #b997e1;
+            color: #ffffff;
+            padding: 8px 20px;
+            border-radius: 15px;
+            font-weight: 500;
+            text-decoration: none;
+            transition: background-color 0.3 ease-in-out;
+            & h6 {
+              color: #666666;
+              line-height: 1.5;
+              margin-bottom: 20px;
+            }
+          }
+          .imgproducto {
+            border-radius: 50%;
+            margin: 15px 15px 15px 15px;
+            border-radius: 0.5rem;
+            &picture {
+              padding: 0 0 0 3px;
+            }
+          }
+        }
+      }
+    }
+
+    .divpedido {
+      display: flex;
+      .textcatalogo {
+        display: flex;
+        width: 62vw;
+        height: 3rem;
+        background-color: #f7f7f7;
+      }
     }
   }
 }

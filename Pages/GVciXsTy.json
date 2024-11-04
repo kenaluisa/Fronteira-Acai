@@ -2,7 +2,7 @@
   "asociated_table": "64aWQblz",
   "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"64aWQblz\").name + '.tsx'",
   "name": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"64aWQblz\").name",
-  "parent": "U7HyKHSM",
+  "parent": "v0Vrt0Sh",
   "path": "() => '/' + aptugo.activeApplication.tables.find(table => table.unique_id === \"64aWQblz\").name",
   "type": "page",
   "unique_id": "GVciXsTy"

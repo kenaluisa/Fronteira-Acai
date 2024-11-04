@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div descripcion",
+  "parent": "hC72V4BP",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8oyGKpTK",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.descripcion"
+  }
+}

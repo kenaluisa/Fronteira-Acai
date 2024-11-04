@@ -1,13 +1,14 @@
 {
   "cascades": false,
-  "name": "div catalogo",
-  "parent": "TD24BufR",
+  "name": "div subtitlo hace pedido",
+  "parent": "6icqPilw",
   "path": "div.tpl",
   "prevent_delete": false,
   "type": "element",
   "unique_id": "3f6NoPBG",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.subtitulopedido"
   }
 }

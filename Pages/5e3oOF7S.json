@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "order": 1000,
+  "parent": "uws05Qsg",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5e3oOF7S",
+  "value": "simpleLink",
+  "values": {
+    "target": "_blank",
+    "destination": "/Pedidos",
+    "tagToUse": "A"
+  }
+}

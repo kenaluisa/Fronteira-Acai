@@ -1,0 +1,25 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "extraFiles": [
+    {
+      "source": "elements/Programming/baseComponent.tsx",
+      "destination": "front-end/components/{{ element.values.name | friendly }}/index.tsx"
+    }
+  ],
+  "name": "ComponentFooter",
+  "order": 1000,
+  "parent": "E9PHcQkQ",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0XFudEmU",
+  "usesDelays": [
+    "bpr"
+  ],
+  "value": "component",
+  "values": {
+    "name": "ComponentFooter",
+    "props": "theme"
+  }
+}

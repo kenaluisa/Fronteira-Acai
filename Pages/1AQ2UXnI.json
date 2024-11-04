@@ -1,0 +1,21 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "registrar",
+  "order": 2,
+  "parent": "6qAJ6kbH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "1AQ2UXnI",
+  "value": "text",
+  "values": {
+    "Content": "No tienes un usuario? Registrate"
+  }
+}

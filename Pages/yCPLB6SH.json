@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink login",
+  "parent": "SOqXTqmX",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yCPLB6SH",
+  "value": "simpleLink",
+  "values": {
+    "target": "_self",
+    "destination": "/Login",
+    "tagToUse": "A"
+  }
+}

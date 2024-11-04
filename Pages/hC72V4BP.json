@@ -3,9 +3,9 @@
   "cascades": false,
   "color": "rgb(0,230,230)",
   "double": true,
-  "name": "div",
+  "name": "div loop",
   "order": 1,
-  "parent": "TD24BufR",
+  "parent": "72xNpw7m",
   "path": "div.tpl",
   "prevent_delete": false,
   "sourceType": "javascript",
@@ -13,6 +13,7 @@
   "unique_id": "hC72V4BP",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.loopcards"
   }
 }

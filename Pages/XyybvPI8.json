@@ -5,7 +5,7 @@
   "double": true,
   "name": "div precio",
   "order": 1,
-  "parent": "72xNpw7m",
+  "parent": "hC72V4BP",
   "path": "div.tpl",
   "prevent_delete": false,
   "sourceType": "javascript",
@@ -13,6 +13,7 @@
   "unique_id": "XyybvPI8",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.precio"
   }
 }

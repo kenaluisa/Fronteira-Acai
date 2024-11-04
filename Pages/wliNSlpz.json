@@ -4,7 +4,7 @@
   "name": "titulo",
   "order": 1000,
   "originalName": "typography",
-  "parent": "TD24BufR",
+  "parent": "lFwgXyEr",
   "path": "typography.tpl",
   "prevent_delete": false,
   "renderTag": "(elem) => { return elem.values.tag }",

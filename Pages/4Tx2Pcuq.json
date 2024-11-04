@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div Admin",
+  "parent": "uLE6TXK8",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4Tx2Pcuq",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

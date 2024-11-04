@@ -1,0 +1,26 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "extraFiles": [
+    {
+      "source": "elements/Programming/baseComponent.tsx",
+      "destination": "front-end/components/{{ element.values.name | friendly }}/index.tsx"
+    }
+  ],
+  "name": "ComponentBarraNavegacion",
+  "order": 1000,
+  "parent": "x3i1ZxQy",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6wr9HJH2",
+  "usesDelays": [
+    "bpr"
+  ],
+  "value": "component",
+  "values": {
+    "name": "ComponentBarraNavegacion",
+    "useIt": false,
+    "props": "theme"
+  }
+}

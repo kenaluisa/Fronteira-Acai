@@ -7,5 +7,7 @@
   "type": "element",
   "unique_id": "kHIXNkl6",
   "value": "typography",
-  "values": {}
+  "values": {
+    "tag": "h6"
+  }
 }

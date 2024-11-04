@@ -1,0 +1,18 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "Usuarios",
+  "order": 1,
+  "parent": "XyssfvZH",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "STw9VHXb",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

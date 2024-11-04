@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Soy luana",
+  "parent": "mbe8ggaW",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9koqqF0p",
+  "value": "text",
+  "values": {
+    "Content": "Soy Luana Ramon y quiero invitarte a seguirme en mis redes sociales"
+  }
+}

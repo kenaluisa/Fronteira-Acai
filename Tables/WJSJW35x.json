@@ -71,6 +71,12 @@
       "data_type": "Image",
       "column_name": "imagen",
       "unique_id": "d16Os6kS"
+    },
+    {
+      "data_type": "Dropdown",
+      "column_name": "Categoria",
+      "unique_id": "oAiZr9Xu",
+      "options": "Açaí;Brigadeiros Tradicional;Brigadeiros Especial"
     }
   ],
   "name": "Productos",

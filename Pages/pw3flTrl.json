@@ -2,7 +2,7 @@
   "cascades": false,
   "name": "button de enviar pedido",
   "order": 2,
-  "parent": "WpV7Hlu9",
+  "parent": "yvsU0r0q",
   "path": "button.tpl",
   "prevent_delete": false,
   "render": "(elem) => { return elem.values.ButtonText }",

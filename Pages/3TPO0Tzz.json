@@ -1,0 +1,21 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "text",
+  "order": 2,
+  "parent": "kuQQ81hk",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "3TPO0Tzz",
+  "value": "text",
+  "values": {
+    "Content": "Usuarios"
+  }
+}

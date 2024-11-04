@@ -1,0 +1,19 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "div formulario",
+  "order": 1,
+  "parent": "TD24BufR",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "6icqPilw",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.formulario"
+  }
+}

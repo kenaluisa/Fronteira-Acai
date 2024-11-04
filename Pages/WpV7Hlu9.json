@@ -3,9 +3,9 @@
   "cascades": false,
   "color": "rgb(0,230,230)",
   "double": true,
-  "name": "div pedidos",
+  "name": "div formulario",
   "order": 1,
-  "parent": "TD24BufR",
+  "parent": "6icqPilw",
   "path": "div.tpl",
   "prevent_delete": false,
   "sourceType": "javascript",
@@ -13,6 +13,7 @@
   "unique_id": "WpV7Hlu9",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.fieldformulario"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "order": 1000,
+  "parent": "BpvPOWh8",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "cBUELFEg",
+  "value": "Container",
+  "values": {
+    "className": "theme.containerLoop",
+    "maxWidth": "md"
+  }
+}

@@ -10,7 +10,7 @@
   "value": "image",
   "values": {
     "path": "img/${item.imagen}",
-    "width": "400",
-    "height": "300"
+    "width": "200",
+    "height": "150"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "ComponentHeader",
+  "parent": "6wr9HJH2",
+  "path": "componentHeader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TZiGnSio",
+  "value": "componentHeader",
+  "values": {}
+}

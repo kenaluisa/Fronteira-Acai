@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "a1t53Wa9",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gPmGyDQM",
+  "value": "text",
+  "values": {
+    "Content": "{item.descripcion}"
+  }
+}

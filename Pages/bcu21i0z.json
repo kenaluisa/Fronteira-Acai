@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "ComponentFooter",
+  "parent": "01gNBVdL",
+  "path": "useComponent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bcu21i0z",
+  "value": "useComponent",
+  "values": {
+    "name": "ComponentFooter",
+    "props": "theme"
+  }
+}

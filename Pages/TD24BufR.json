@@ -1,13 +1,14 @@
 {
   "cascades": false,
   "name": "div pedido",
-  "parent": "V9kMeGII",
+  "parent": "e5Z4nEbo",
   "path": "div.tpl",
   "prevent_delete": false,
   "type": "element",
   "unique_id": "TD24BufR",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.divpedido"
   }
 }

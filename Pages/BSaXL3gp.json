@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "componentHeader",
+  "parent": "0XFudEmU",
+  "path": "componentHeader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BSaXL3gp",
+  "value": "componentHeader",
+  "values": {}
+}

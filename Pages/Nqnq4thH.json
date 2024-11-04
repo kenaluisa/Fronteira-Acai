@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Admin",
+  "parent": "UsTAnW3e",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Nqnq4thH",
+  "value": "text",
+  "values": {
+    "Content": "Admin"
+  }
+}
